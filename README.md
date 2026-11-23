@@ -3,12 +3,12 @@
 
 ## Student Information
 
-- **Student Name:** [Your Full Name]
-- **GitHub Profile:** [Your GitHub URL]
-- **LinkedIn Profile:** [Your LinkedIn URL]
+- **Student Name:** Elias Girma
+- **GitHub Profile:** https://github.com/eliasgirmah
+- **LinkedIn Profile:** https://www.linkedin.com/in/elias-girma-155a09283/
 - **Institution:** NXG Tech Academy
 - **Course:** Python Foundation
-- **Duration:** 6 Weeks
+- **Duration:** 8 Weeks
 
 ---
 
